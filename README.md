@@ -1,5 +1,6 @@
 <div align=center> 
-  <h1>Hi there 👋</h1> 
+  <h2> Hi, there 👋 </h2> 
+  <h1> I'm Taekyoung Lee!</h1> 
 </div>
 
 <!--
