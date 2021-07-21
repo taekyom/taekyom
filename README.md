@@ -1,7 +1,4 @@
-<div align=center> 
-  <h2> Hi, there 👋 </h2><br/> 
-  <h1> I'm Taekyoung Lee!</h1> 
-</div>
+###Hi, there 👋 I'm Taekyoung Lee!
 
 <!--
 **taekyom/taekyom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
