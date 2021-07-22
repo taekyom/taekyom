@@ -1,5 +1,5 @@
-### Hi, there 👋 
-### I'm Taekyoung Lee!🤸‍♀️ 
+## Hi, there 👋 
+## I'm Taekyoung Lee!🤸‍♀️ 
 <br/>
 
 #### ✏ Skills
