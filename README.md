@@ -16,13 +16,13 @@
 ![.NET](https://img.shields.io/badge/.NET-AA79D2?style=flat&amp;logo=.net&amp;logoColor=white)
 ![OpenCV](https://img.shields.io/badge/opencv-B83F3D?style=flat&amp;logo=opencv&amp;logoColor=white)
 ![QT](https://img.shields.io/badge/Qt-41B83D?style=flat&amp;logo=Qt&amp;logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-0D1D26?style=flat&amp;logo=Flask&amp;logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-060D13?style=flat&amp;logo=Flask&amp;logoColor=white)
 <br/><br/>
 
 #### 🛠 Tools
 ![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=flat&amp;logo=visual-studio-code&amp;logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/VisualStudio-5C2D91.svg?style=flat&amp;logo=visual-studio&amp;logoColor=white)
-![MS SQL Server](https://img.shields.io/badge/MicrosoftSQLServer-CC2927?style=flat&amp;logo=MicrosoftSQLServer&amp;logo=Color=white)
+![MS SQL Server](https://img.shields.io/badge/MicrosoftSQLServer-0D1D26?style=flat&amp;logo=MicrosoftSQLServer&amp;logo=Color=white)
 ![mssql](https://img.shields.io/badge/mssql-CC2927.svg?style=flat&amp;logo=microsoftsqlserver&amp;logoColor=white)
 ![mysql](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&amp;logo=mysql&amp;logoColor=white)
 ![RaspberryPi](https://img.shields.io/badge/RaspberryPi-A22846?style=flat&amp;logo=RaspberryPi&amp;logoColor=white)
