@@ -1,5 +1,6 @@
 ### Hi, there 👋 
-### I'm Taekyoung Lee!🤸‍♀️ <br/>
+### I'm Taekyoung Lee!🤸‍♀️ 
+<br/>
 
 #### ✏ Skills
 ![C Badge](https://img.shields.io/badge/C-453091?style=flat&amp;logo=C&amp;logoColor=white)
@@ -21,3 +22,6 @@
 <br/><br/>
 
 #### 📫 Contacts
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&amp;logo=LinkedIn&amp;logoColor=white)
+![Email](https://img.shields.io/badge/Email-#A4335?style=flat&amp;logo=#30B980&amp;logoColor=white)
+
