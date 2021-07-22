@@ -12,6 +12,13 @@
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=flat&amp;logo=CSS3&amp;logoColor=white)
 <br/><br/>
 
+#### 🧵 FramekWorks and Libraries
+![.NET](https://img.shields.io/badge/.NET-AA79D2?style=flat&amp;logo=.net&amp;logoColor=white)
+![OpenCV](https://img.shields.io/badge/opencv-B83F3D?style=flat&amp;logo=opencv&amp;logoColor=white)
+![QT](https://img.shields.io/badge/Qt-41B83D?style=flat&amp;logo=Qt&amp;logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-0D1D26?style=flat&amp;logo=Flask&amp;logoColor=white)
+<br/><br/>
+
 #### 🛠 Tools
 ![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=flat&amp;logo=visual-studio-code&amp;logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/VisualStudio-5C2D91.svg?style=flat&amp;logo=visual-studio&amp;logoColor=white)
