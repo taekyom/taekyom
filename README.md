@@ -1,7 +1,7 @@
 ### Hi, there 👋 I'm Taekyoung Lee!
 
 #### ✏ Skills
-![C Badge](https://img.shields.io/badge/C-453091?style=flat-square&amp;logo=C&amp;logoColor=white)
+![C Badge](https://img.shields.io/badge/C-453091?style=flat&amp;logo=C&amp;logoColor=white)
 ![C++ Badge](https://img.shields.io/badge/c++-00599C?style=flat&amp;logo=c%2B%2B&amp;logoColor=white)
 ![C# Badge](https://img.shields.io/badge/C&amp;Sharp-AC39AA?style=flat-square&amp;logo=C Sharp&amp;logoColor=white)
 ![Python Badge](https://img.shields.io/badge/python-205860?style=flat&amp;logo=python&amp;logoColor=white)
