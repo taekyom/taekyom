@@ -23,5 +23,5 @@
 
 #### 📫 Contacts
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&amp;logo=LinkedIn&amp;logoColor=white)
-![Email](https://img.shields.io/badge/Email-#A4335?style=flat&amp;logo=#30B980&amp;logoColor=white)
+![Email](https://img.shields.io/badge/Email-#A4335?style=flat&amp;logo=Minutemailer&amp;logoColor=white)
 
