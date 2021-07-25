@@ -29,6 +29,6 @@
 <br/><br/>
 
 #### 📫 Contacts
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&amp;logo=LinkedIn&amp;logoColor=white)(https://www.linkedin.com/in/taegyeong-lee-098076202/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&amp;logo=LinkedIn&amp;logoColor=white&link=https://www.linkedin.com/in/taegyeong-lee-098076202/)](https://www.linkedin.com/in/taegyeong-lee-098076202/)
 ![Email](https://img.shields.io/badge/Email-EA4335?style=flat&amp;logo=Minutemailer&amp;logoColor=white)
 
