@@ -1,5 +1,5 @@
 ### Hi, there 👋 <br/>
-### I'm Taekyoung Lee! Beginner Developer 🤸‍♀ 
+### I'm Taekyoung Lee!  Beginner Developer 🤸‍♀ 
 <br/><br/>
 
 #### ✏ Skills
