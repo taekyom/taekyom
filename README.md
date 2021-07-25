@@ -1,5 +1,6 @@
 ### Hi, there 👋 <br/>
-### I'm Taekyoung Lee! Beginner Developer 🤸‍♀ <br/><br/>
+### I'm Taekyoung Lee! Beginner Developer 🤸‍♀ 
+<br/><br/>
 
 #### ✏ Skills
 ![C Badge](https://img.shields.io/badge/C-453091?style=flat&amp;logo=C&amp;logoColor=white)
