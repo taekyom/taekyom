@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Taekyoung%20Lee&fontSize=90&fontAlignY=38&amp;desc=I'm%20a%20Beginner%20Developer!%20🤸‍♀&amp;descAlignY=58&amp;descAlign=72)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Taekyoung%20Lee&fontSize=90&fontAlignY=38&amp;desc=I'm%20a%20Beginner%20Developer!%20🤸‍♀&amp;descAlignY=58&amp;descAlign=71)
 
 #### 📫 Contacts
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&amp;logo=LinkedIn&amp;logoColor=white&link=https://www.linkedin.com/in/taegyeong-lee-098076202/)
@@ -22,7 +22,7 @@
 <br/><br/>
 
 #### ✏ Skills
-![C Badge](https://img.shields.io/badge/C-453091?style=flat&amp;logo=C&amp;logoColor=white)
+![C Badge](https://img.shields.io/badge/C-453091?style=flat&amp;logo=C&amp;logoColor=white&link=https://github.com/taekyom/StudyC)
 ![C++ Badge](https://img.shields.io/badge/c++-00599C?style=flat&amp;logo=c%2B%2B&amp;logoColor=white)
 ![C# Badge](https://img.shields.io/badge/CSharp-AC39AA?style=flat&amp;logo=CSharp&amp;logoColor=white)
 ![Python Badge](https://img.shields.io/badge/python-205860?style=flat&amp;logo=python&amp;logoColor=white)
