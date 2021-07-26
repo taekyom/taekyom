@@ -51,5 +51,5 @@
 ![taekyom's github stats](https://github-readme-stats.vercel.app/api?username=taekyom&show_icons=true&theme=onedark)
 
 #### 📊 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taekyom&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taekyom&layout=compact&theme=onedark)
 
