@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=280&section=header&text=Taekyoung%20Lee&fontSize=90&fontAlignY=38&amp;desc=I'm%20Beginner%20Developer!&amp;descAlignY=70&amp;descAlign=75)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Taekyoung%20Lee&fontSize=90&fontAlignY=38&amp;desc=I'm%20Beginner%20Developer!&amp;descAlignY=70&amp;descAlign=74)
 
 ### I'm Beginner Developer 🤸‍♀ 
 
