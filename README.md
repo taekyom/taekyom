@@ -1,4 +1,6 @@
-## Taekyoung Lee! I'm Beginner Developer 🤸‍♀ 
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Taekyoung%20Lee&fontSize=90)
+
+### I'm Beginner Developer 🤸‍♀ 
 
 #### 📫 Contacts
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&amp;logo=LinkedIn&amp;logoColor=white&link=https://www.linkedin.com/in/taegyeong-lee-098076202/)
