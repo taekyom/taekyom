@@ -1,6 +1,25 @@
-### Hi, there 👋 <br/>
-### I'm Taekyoung Lee!  Beginner Developer 🤸‍♀ 
+## I'm Taekyoung Lee!  Beginner Developer 🤸‍♀ 
+<br/>
+
+#### 📫 Contacts
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&amp;logo=LinkedIn&amp;logoColor=white&link=https://www.linkedin.com/in/taegyeong-lee-098076202/)](https://www.linkedin.com/in/taegyeong-lee-098076202/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&amp;logo=Minutemailer&amp;logoColor=white&mailto:tkyoung1014@naver.com)](mailto:tkyoung1014@naver.com)
 <br/><br/>
+
+#### Who Am I
+- 🌱 I’m currently learning Python, OpenCV, C#
+- 🥇 I majored in Business Administration
+- 🚅 My hometown is Haeundae, Busan in Korea
+
+#### Experience
+- 🎓 Pukyong National University, Business Administration (2015.03 ~ 2019.08)
+- 🕶 FRL Korea, Sales & VMD  (2019.07 ~ 2020.08)
+- 📚 Pukyong National University IOT Developer Program(2021.01 ~ 2021.08)
+
+#### What I Like
+- 📽 Movie
+- 🌷 Fragrance
+- 🛫 Travel
 
 #### ✏ Skills
 ![C Badge](https://img.shields.io/badge/C-453091?style=flat&amp;logo=C&amp;logoColor=white)
@@ -26,11 +45,6 @@
 ![mssql](https://img.shields.io/badge/mssql-CC2927.svg?style=flat&amp;logo=microsoftsqlserver&amp;logoColor=white)
 ![mysql](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&amp;logo=mysql&amp;logoColor=white)
 ![RaspberryPi](https://img.shields.io/badge/RaspberryPi-A22846?style=flat&amp;logo=RaspberryPi&amp;logoColor=white)
-<br/><br/>
-
-#### 📫 Contacts
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&amp;logo=LinkedIn&amp;logoColor=white&link=https://www.linkedin.com/in/taegyeong-lee-098076202/)](https://www.linkedin.com/in/taegyeong-lee-098076202/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&amp;logo=Minutemailer&amp;logoColor=white&mailto:tkyoung1014@naver.com)](mailto:tkyoung1014@naver.com)
 <br/><br/>
 
 #### 🏆 My Github Stats
