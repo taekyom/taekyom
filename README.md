@@ -1,4 +1,4 @@
-## Taekyoung Lee! <br/><br/> I'm Beginner Developer 🤸‍♀ 
+## Taekyoung Lee! I'm Beginner Developer 🤸‍♀ 
 
 #### 📫 Contacts
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&amp;logo=LinkedIn&amp;logoColor=white&link=https://www.linkedin.com/in/taegyeong-lee-098076202/)
@@ -51,5 +51,5 @@
 ![taekyom's github stats](https://github-readme-stats.vercel.app/api?username=taekyom&show_icons=true&theme=tokyonight)
 
 #### 📊 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taekyom&layout=compact&theme=merko)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taekyom&layout=compact&theme=tokyonight)
 
