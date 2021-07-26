@@ -1,8 +1,8 @@
-## I'm Taekyoung Lee!  Beginner Developer 🤸‍♀ 
+## Taekyoung Lee! <br/> Beginner Developer 🤸‍♀ 
 
 #### 📫 Contacts
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&amp;logo=LinkedIn&amp;logoColor=white&link=https://www.linkedin.com/in/taegyeong-lee-098076202/)](https://www.linkedin.com/in/taegyeong-lee-098076202/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&amp;logo=Minutemailer&amp;logoColor=white&mailto:tkyoung1014@naver.com)](mailto:tkyoung1014@naver.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&amp;logo=LinkedIn&amp;logoColor=white&link=https://www.linkedin.com/in/taegyeong-lee-098076202/)]
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&amp;logo=Minutemailer&amp;logoColor=white&mailto:tkyoung1014@naver.com)]
 <br/><br/>
 
 #### Who Am I
@@ -48,7 +48,7 @@
 <br/><br/>
 
 #### 🏆 My Github Stats
-![taekyom's github stats](https://github-readme-stats.vercel.app/api?username=taekyom&show_icons=true&theme=radical)
+![taekyom's github stats](https://github-readme-stats.vercel.app/api?username=taekyom&show_icons=true&theme=cobalt)
 
 #### 📊 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taekyom&layout=compact&theme=cobalt)
