@@ -1,5 +1,4 @@
 ## I'm Taekyoung Lee!  Beginner Developer 🤸‍♀ 
-<br/>
 
 #### 📫 Contacts
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&amp;logo=LinkedIn&amp;logoColor=white&link=https://www.linkedin.com/in/taegyeong-lee-098076202/)](https://www.linkedin.com/in/taegyeong-lee-098076202/)
