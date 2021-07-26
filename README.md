@@ -47,9 +47,9 @@
 ![RaspberryPi](https://img.shields.io/badge/RaspberryPi-A22846?style=flat&amp;logo=RaspberryPi&amp;logoColor=white)
 <br/><br/>
 
-//#### 🏆 My Github Stats
+
 ![taekyom's github stats](https://github-readme-stats.vercel.app/api?username=taekyom&show_icons=true&theme=tokyonight)
 
-//#### 📊 Most Used Languages
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taekyom&layout=compact&theme=tokyonight)
 
