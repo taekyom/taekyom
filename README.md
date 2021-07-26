@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Taekyoung%20Lee&fontSize=90&fontAlignY=38&amp;desc=I'm%20a%20Beginner%20Developer!%20🤸‍♀&amp;descAlignY=58&amp;descAlign=74)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Taekyoung%20Lee&fontSize=90&fontAlignY=38&amp;desc=I'm%20a%20Beginner%20Developer!%20🤸‍♀&amp;descAlignY=58&amp;descAlign=70)
 
 #### 📫 Contacts
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&amp;logo=LinkedIn&amp;logoColor=white&link=https://www.linkedin.com/in/taegyeong-lee-098076202/)
