@@ -19,6 +19,7 @@
 - 📽 Movie
 - 🌷 Fragrance
 - 🛫 Travel
+<br/><br/>
 
 #### ✏ Skills
 ![C Badge](https://img.shields.io/badge/C-453091?style=flat&amp;logo=C&amp;logoColor=white)
